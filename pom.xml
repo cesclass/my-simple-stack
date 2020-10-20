@@ -141,7 +141,6 @@
         <artifactId>findbugs-maven-plugin</artifactId> <!-- somewhat deprecated -->
         <version>3.0.3</version>
       </plugin>
-  </plugins>
-</reporting>
-
-        </project>
+    </plugins>
+  </reporting>
+</project>
